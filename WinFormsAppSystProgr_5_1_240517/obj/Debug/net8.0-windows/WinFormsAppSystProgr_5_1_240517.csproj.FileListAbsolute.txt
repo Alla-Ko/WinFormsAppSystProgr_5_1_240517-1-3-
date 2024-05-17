@@ -1,0 +1,16 @@
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.exe
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.deps.json
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.runtimeconfig.json
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\bin\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.pdb
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.Form1.resources
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.AssemblyInfoInputs.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.AssemblyInfo.cs
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\refint\WinFormsAppSystProgr_5_1_240517.dll
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.pdb
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\WinFormsAppSystProgr_5_1_240517.genruntimeconfig.cache
+C:\Alla\C#_proj\WinFormsAppSystProgr_5_1_240517\obj\Debug\net8.0-windows\ref\WinFormsAppSystProgr_5_1_240517.dll

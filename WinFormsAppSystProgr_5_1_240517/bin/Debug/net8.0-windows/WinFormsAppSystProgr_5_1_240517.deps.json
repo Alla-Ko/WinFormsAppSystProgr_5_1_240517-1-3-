@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormsAppSystProgr_5_1_240517/1.0.0": {
+        "runtime": {
+          "WinFormsAppSystProgr_5_1_240517.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsAppSystProgr_5_1_240517/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
